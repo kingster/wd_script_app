@@ -1,0 +1,18 @@
+Package:            scriptapp
+Section:            Addon
+Version:            3
+Packager:           Kinshuk
+Email:              me@kinshuk.in
+Homepage:          	http://github.com/kingster/wd_script_app
+Description:        WD Custom Scripted App.
+Icon:               scriptapp.png
+AddonShowName:   	WD Scripted App
+AddonIndexPage:		index.php
+AddonUsedPort: 
+InstDepend:
+InstConflict: 
+StartDepend: 
+StartConflict:
+MinFWVer:
+MaxFWVer:
+IndividualFlag:		1
